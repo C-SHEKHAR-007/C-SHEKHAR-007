@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C-SHEKHAR-007
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on somewhere
 - 📫 9807084494
 
